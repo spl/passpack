@@ -1,0 +1,79 @@
+body {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	background:url(../pic/_background.gif) #000 repeat-x;
+	color:#fff;
+	margin:0;
+	padding:0;
+}
+
+div, p {
+	padding: 4px;
+	margin:0;
+}
+
+a, a.link, a.active {
+	color:#ff8;
+	text-decoration: none;
+}
+
+.mini {
+	font-size:70%;
+}
+
+label {
+	display:block;
+	float: left;
+	width: 100px;
+}
+
+input, textarea {
+	background:#444;
+	color:#fff;
+	border: 1px #ccc dashed;
+	margin: 2px;
+	padding:2px;
+}
+
+input.button {
+	border: 1px #444 solid;
+	font-weight: bold;
+	background:#666;
+}
+
+textarea {
+	padding:10px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size:80%;
+}
+
+#header {
+	font-size:140%;
+}
+
+.red {
+	font-size:70%;
+	font-weight:bold;
+	color:#c00;
+	display:inline;
+	padding:0 10px;
+	margin:0 10px;
+	background:#000;
+}
+	
+#intro {
+	font-size:90%;
+	padding:16px 10px;
+	color:#ddd;
+}
+	
+a#minilogo {
+	background:url(../pic/_passpack.gif) #fff;
+	float:right;
+	border:0;
+	display:block;
+	width:100px;
+	height:21px;
+}	
+#sullof {
+	display:block;
+}

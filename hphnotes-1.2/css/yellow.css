@@ -1,0 +1,93 @@
+body {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	background:url(../pic/background.gif) #fff;
+	color:#000;
+	margin:0;
+	padding:0 0 0 20px;
+}
+
+div,p {
+	padding: 4px;
+	margin:0;
+}
+
+a, a.link, a.active {
+	color:#c10;
+	text-decoration: none;
+}
+
+.mini {
+	font-size:70%;
+}
+
+label {
+	display:block;
+	float: left;
+	width: 100px;
+}
+
+input, textarea {
+	background:#fff;
+	color:#000;
+	border: 1px #ccc dashed;
+	margin: 2px;
+	padding:2px;
+}
+
+input.button {
+	font-weight: bold;
+	background:#a96;
+	border: 1px #440 solid;
+	color:#fff;
+}
+
+textarea {
+	padding:10px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size:80%;
+	background:#FFFFB6;
+}
+
+#header {
+	font-size:140%;
+	background:#fff;
+	border:1px #ccc solid;
+	padding:8px;
+	margin:0 8px;
+}
+
+.red {
+	font-size:70%;
+	font-weight:bold;
+	color:#fff;
+	display:inline;
+	padding:4px;
+	margin:0 10px;
+	background:#c00;
+}
+
+#error {
+	font-size:70%;
+	font-weight:bold;
+	color:#f00;
+	padding:2px 0;
+}
+	
+#intro {
+	font-size:90%;
+	padding:16px 10px;
+	color:#444;
+}
+
+a#minilogo {
+	background:url(../pic/passpack.gif) #fff;
+	float:right;
+	border:0;
+	display:block;
+	width:100px;
+	height:21px;
+}
+
+#sullof {
+	display:none;
+}
